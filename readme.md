@@ -1,4 +1,4 @@
-##SSSumo
+## SSSumo
 S3 - Lambda - Sumologic
 
 #### About
